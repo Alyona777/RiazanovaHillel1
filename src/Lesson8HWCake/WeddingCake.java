@@ -1,6 +1,6 @@
 package Lesson8HWCake;
 
-public class WeddingCake extends Cake{
+public class WeddingCake extends Cake {
 
     private int levels;
 
