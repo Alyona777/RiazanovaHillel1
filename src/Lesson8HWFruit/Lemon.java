@@ -13,11 +13,4 @@ public class Lemon extends Fruit {
         this.removeLemonPeel = removeLemonPeel;
     }
 
-//    public String getRemoveLemonSeeds() {
-//        return removeLemonSeeds;
-//    }
-
-//    public void setRemoveLemonSeeds(String removeLemonSeeds) {
-//        this.removeLemonSeeds = removeLemonSeeds;
-//    }
 }

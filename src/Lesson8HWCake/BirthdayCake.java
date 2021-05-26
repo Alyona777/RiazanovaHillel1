@@ -1,6 +1,6 @@
 package Lesson8HWCake;
 
-public class BirthdayCake extends Cake{
+public class BirthdayCake extends Cake {
 
     private int candles;
 
